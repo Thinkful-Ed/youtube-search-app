@@ -8,3 +8,4 @@
 - [ ] Show a link for more from the channel that each video came from
 - [ ] Show buttons to get more results. Use the previous and next page links from the JSON
 - [ ] Display more than 5 results per page
+- [ ] Use Bootstrap card style, or similar style. You can completely replace Bootstrap if you like.
